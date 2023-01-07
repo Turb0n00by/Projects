@@ -33,7 +33,7 @@ sleep 5
 
 cat << 'EOF' > /Library/Application\ Support/UpdateInventory.sh
 
-osascript -e 'display dialog "This is actually working!" buttons {"Cool!"} default button 1'
+open -a "Google Chrome" 'https://www.worldwidecyclery.com'
 
 EOF
 
