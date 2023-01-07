@@ -33,7 +33,7 @@ sleep 5
 
 cat << 'EOF' > /Library/Application\ Support/UpdateInventory.sh
 
-open -a "Google Chrome" 'https://www.worldwidecyclery.com'
+open -a "Safari" 'https://www.worldwidecyclery.com'
 
 EOF
 
